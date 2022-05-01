@@ -3,12 +3,20 @@
 #include <iostream>
 #include <windows.h>
 
+/**
+ * @brief 
+ * class snake's body stored by list, and it contain the information about x,y
+ */
 class bodyNode
 {
 public:
 
 };
 
+/**
+ * @brief 
+ * class snake
+ */
 class Snake
 {
 public:
